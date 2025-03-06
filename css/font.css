@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "TimesNewerRoman";
+  src: url("../font/TimesNewerRoman-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
